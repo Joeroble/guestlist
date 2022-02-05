@@ -1,4 +1,4 @@
-package com.bignerdranch.android.guestlist
+package com.joeroble.android.guestlist
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,14 +1,12 @@
-package com.bignerdranch.android.guestlist
+package com.joeroble.android.guestlist
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.os.PersistableBundle
 import android.widget.Button
-import android.widget.EdgeEffect
 import android.widget.EditText
 import android.widget.TextView
 import androidx.lifecycle.ViewModelProvider
-import org.w3c.dom.Text
+import com.bignerdranch.android.guestlist.R
 
 const val LAST_GUEST_NAME_KEY = "Last-guest-name-bundle-key"
 
